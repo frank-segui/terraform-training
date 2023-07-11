@@ -1,0 +1,1 @@
+${cidrsubnet(vpc_cidr,8,offset)}
